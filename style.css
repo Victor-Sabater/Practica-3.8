@@ -1,0 +1,43 @@
+h1.marron{
+    text-align: center;
+    color: brown;
+}
+
+body{
+    background-color: burlywood;
+}
+
+
+
+h3.carta{
+    position: relative;
+    bottom: -120px;
+    text-align: left;
+}
+
+
+h3.cafe{
+    position: relative;
+    bottom:  -180px;
+    text-align: center;
+}
+
+
+
+h3.contacto{
+    position: relative;
+    bottom: -400px;
+    text-align: right;
+}
+
+
+h1.Lacarta{
+    text-align: center;
+    color: brown;
+
+}
+
+h1.Elcafe{
+    text-align: center;
+    color: brown;
+}
